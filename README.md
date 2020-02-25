@@ -1,1 +1,3 @@
-# GitProject
+# GitProject: life long education !
+
+
